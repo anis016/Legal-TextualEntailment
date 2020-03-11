@@ -1,0 +1,79 @@
+##
+Article 353. Pledgees of movables may, if the pledged Thing is usurped, recover the same solely by bringing actions for recovery of possession.
+
+Pledgees of movables may, if the pledged Thing is usurped, demand the return of the same for the pledge.
+
+output:  / predicting: 
+
+##
+
+##
+Article 106 A statutory agent may appoint a sub-agent on its own responsibility.In such case, if there is any unavoidable reason, it shall assume only the responsibility set forth in paragraph 1 of the preceding Article.
+
+A guardian of adult may not appoint its sub-agent unless there is an unavoidable reason to do so.
+
+output: No / predicting: No
+
+
+Article 106 A statutory agent may not appoint a sub-agent on its own responsibility.In such case, if there is any unavoidable reason, it shall assume only the responsibility set forth in paragraph 1 of the preceding Article.
+
+A guardian of adult may appoint its sub-agent unless there is an unavoidable reason to do so.
+
+##
+
+##
+Article 878 In the case where there exist several persons under a duty to give support, and agreement has not, or cannot be, reached between the parties with respect to the order in which they are to give support, the family court shall determine the order. In the case where there exist several persons entitled to support and the financial capacity of the person under a duty to give support is insufficient to support them all, the same shall apply.
+
+In the case where there exist several persons under a duty to give support, and agreement has not, or cannot be, reached between the parties with respect to the order in which they are to give support, the family court shall determine the order.
+
+output: Yes / predicting: Yes
+##
+
+## 
+Article 975. A will may not be made by two or more persons on the same certificate.
+
+A husband and wife may make their will on the same certificate.
+
+output: No / predicting: No
+##
+
+##
+Article 572. Even if the seller makes a special agreement to the effect that the seller will not provide the warranties set forth from Article 560 through to the preceding Article, the seller may not be released from that responsibility with respect to any fact that the seller knew but did not disclose, and with respect to any right that the seller himself/herself created for or assigned to a third party.
+
+In cases where there is a special agreement, in a contract of sale, to the effect that the seller will not provide the warranties against defects, if the seller knew but did not disclose that there is any latent defect in the subject matter of a sale, he/she may not be released from the warranties against defects.
+
+output: Yes / predicting: Yes
+##
+
+##
+Article 102. An agent need not to be a person with the capacity to act.
+
+A minor may not become an agent.
+
+output: No / predicting: No
+##
+
+
+##
+Article 371. If there is a default with respect to a claim secured by a mortgage, the mortgage shall extend to the fruits of the Mortgaged Immovable Properties derived after the default.
+
+Even if the owner of a mortgaged property acquires fruits derived after the default of the secured claim, it shall not be a case of unjust enrichment.
+
+output: No / predicting: Yes
+##
+
+##
+Article 682. A partnership shall be dissolved on the successful completion of the business that is its object, or by the impossibility of such successful completion.
+
+A partnership shall be dissolved on the successful completion of the business that is its object.
+
+output: Yes / predicting: No
+##
+
+##
+Article 295. (1) If a possessor of a Thing belonging to another person has a claim that has arisen with respect to that Thing, he/she may retain that thing until that claim is satisfied;provided, however, that this shall not apply if such claim has not yet fallen due. (2) The provisions of the preceding paragraph shall not apply in cases where possession commenced by means of a tortious act.
+
+For the formation of rights of retention under Civil Code, existence of a claim that has arisen with respect to the subject matter and possession of the subject matter by the obligee are required, but it is not required that the obligee possess the subject matter at the time of the formation of the claim.
+
+output: Yes / predicting: No
+##
