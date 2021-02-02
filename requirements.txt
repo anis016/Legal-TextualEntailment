@@ -2,7 +2,7 @@ absl-py==0.1.13
 astor==0.6.2
 backcall==0.1.0
 bcolz==1.2.1
-bleach==1.5.0
+bleach==3.3.0
 bokeh==0.12.15
 boto==2.48.0
 boto3==1.7.1
